@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @andreavelazq
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @andreavelazquez
+- actualmente estoy aprendiendo y conociendo la plataforma GitHub
+- Estudiante de Informatica 
+- Edad 17 años 
 
 <!---
 andreavelazquez1/andreavelazquez1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
